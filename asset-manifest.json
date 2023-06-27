@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56e02fc1.css",
+    "main.js": "/static/js/main.af4f0ef2.js",
+    "static/media/foto1.jpg": "/static/media/foto1.1a4e0d426b4650fcd6a2.jpg",
+    "static/media/foto2.jpg": "/static/media/foto2.26ba16c8fb939db1a676.jpg",
+    "static/media/foto3.jpg": "/static/media/foto3.451134ac4535692991ec.jpg",
+    "static/media/fernet.png": "/static/media/fernet.e4a7bc9ff7c660d1e5e3.png",
+    "static/media/asado.png": "/static/media/asado.8f68c76102f6938e5aa0.png",
+    "index.html": "/index.html",
+    "main.56e02fc1.css.map": "/static/css/main.56e02fc1.css.map",
+    "main.af4f0ef2.js.map": "/static/js/main.af4f0ef2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e02fc1.css",
+    "static/js/main.af4f0ef2.js"
+  ]
+}
